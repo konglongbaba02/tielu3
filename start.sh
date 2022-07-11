@@ -7,7 +7,7 @@ cat << CON >> config.json
       "settings": {
         "clients": [
           {
-            "id": "edc1344c-f9bc-4a1a-8864-e0f6bb986b62",
+            "id": "edc1344c-f9bc-4a1a-8864-e0f6bb980530",
             "alterId": 64
           }
         ]
